@@ -1,0 +1,21 @@
+
+
+Project -> Configuration Properties -> C/C++ -> General
+"C:\Program Files\OpenCV\cvaux\include\";"C:\Program Files\OpenCV\cxcore\include\";"C:\Program Files\OpenCV\cv\include\";"C:\Program Files\OpenCV\otherlibs\highgui\";
+
+
+
+Project -> Configuration Properties -> Linker -> Input
+"C:\Program Files\OpenCV\lib\cv.lib" "C:\Program Files\OpenCV\lib\cvaux.lib" "C:\Program Files\OpenCV\lib\cxcore.lib" "C:\Program Files\OpenCV\lib\highgui.lib"
+
+
+
+To give Command Arguments to emulate input from Command Prompt
+Project -> Configuration Properties -> Debugging-> Command Arguments
+"arg[1]		arg[2]		arg[3]	,etc	"
+
+
+
+To use the Microsoft Foundation Classes (MFC)
+Project -> Configuration Properties -> General -> Use of MFC
+-----------------------------------------------------------------------
