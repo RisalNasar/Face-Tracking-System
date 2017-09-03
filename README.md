@@ -1,5 +1,4 @@
-# target-tracking-system
-Target Tracking System for a Directional Audio Beam Speaker
+# Target Tracking System for a Directional Audio Beam Speaker
 
 The Audio Beaming System developed in the Digital Signal Processing Laboratory at Nanyang Technological University is an innovative technology providing directional sound. This project serves as a value addition to the Audio Beaming System by designing and building a system to track a target as it moves around and thereby making it possible to beam directional audio continuously at the target.
  
