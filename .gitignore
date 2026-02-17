@@ -1,0 +1,44 @@
+# Visual Studio / VC++
+*.user
+*.suo
+*.ncb
+*.aps
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.log
+*.tlog
+.vs/
+
+# MPLAB IDE (generated; uncomment to ignore build outputs)
+# *.o
+# *.cof
+# *.hex
+# *.map
+*.lst
+*.sym
+*.cod
+*.err
+*.bak
+*.dep
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Optional: keep .hex/.map if you want them in repo for reference; uncomment to ignore:
+# Project_MPLAB_IDE/Project/*.hex
+# Project_MPLAB_IDE/Project/*.map
+# Project_MPLAB_IDE/Project/*.o
